@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 May 2023 13:22:36 at https://dhhs-funding.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dhhs-funding.org/ -O1 "C:\My Web Sites\favor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:23:48	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/fv4bxfeeopdh888kzv6mem9y8rwjxknv.js (from https://dhhs-funding.org/)
+13:23:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://dhhs-funding.org/wp-content/uploads/2023/03/Seal_of_the_United_States_Department_of_Health_and_Human_Services.svg_-1024x1024.png (from https://dhhs-funding.org/about-dhhs-program/)
+13:23:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://dhhs-funding.org/wp-json/wp/v2/pages/43 (from https://dhhs-funding.org/about-dhhs-program/)
+13:23:48	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=43
+13:23:48	Warning: 	File has moved from https://dhhs-funding.org/?p=43 to https://dhhs-funding.org/about-dhhs-program/
+13:23:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://dhhs-funding.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdhhs-funding.org%2Fabout-dhhs-program%2F (from https://dhhs-funding.org/about-dhhs-program/)
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=54
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=54 to https://dhhs-funding.org/dhhs-program-reviews/
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=51
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=51 to https://dhhs-funding.org/dhhs-program-application/
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=47
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=47 to https://dhhs-funding.org/home-care-and-family-support-dhhs-program/
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=40
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=40 to https://dhhs-funding.org/dhhs-mission-and-vision/
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=36
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=36 to https://dhhs-funding.org/apply-for-dhhs-grant-program/
+13:23:49	Warning: 	Moved Permanently for https://dhhs-funding.org/?p=31
+13:23:49	Warning: 	File has moved from https://dhhs-funding.org/?p=31 to https://dhhs-funding.org/dhhs-leaders/
+13:23:49	Error: 	"Service Unavailable" (503) at link https://www.hhs.gov/sites/default/files/styles/bio_280x280/public/janet-vogel_0.jpg?itok=WnVI3szU (from https://dhhs-funding.org/dhhs-leaders/)
+13:23:49	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/fv4bxfeeopdh888kzv6mem9y8rwjxknv.js (from https://dhhs-funding.org/)
+13:23:52	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/fv4bxfeeopdh888kzv6mem9y8rwjxknv.js (from https://dhhs-funding.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 131 links scanned, 116 files written (20089164 bytes overall) [18605738 bytes received at 244812 bytes/sec], 1928524 bytes transferred using HTTP compression in 45 files, ratio 17%, 5.9 requests per connection
+(2 errors, 19 warnings, 0 messages)
